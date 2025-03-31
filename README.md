@@ -6,7 +6,7 @@ I'm an AI Developer and a Data Scientist embarking on side quests 🗺️ in the
 
    <p align="left">
       <a href="https://www.instagram.com/lcr_snaps/">
-         <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-red.svg?logo=camera&logoSource=feather"/></a>
+         <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-red.svg?logo=camera&logoSource=feather&style=for-the-badge"/></a>
       <a href="https://github.com/lukecardona?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lukecardona?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/lukecardona?tab=repositories&sort=stargazers">
