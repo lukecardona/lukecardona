@@ -1,6 +1,6 @@
 # 🧙‍♂️ Luke Cardona
 
-** Digital Craftsman (Developer, Photographer, Filmmaker & Creative Creator) **
+**` Digital Craftsman (Developer, Photographer, Filmmaker & Creative Creator) `**
 
 I'm an AI Developer and a Data Scientist embarking on side quests in the digital word. Each quest (coding project) is started from the Title Screen and it build throughout an adventerous journey, gathering items (skills) and experience required to complete the side quest and level up 🏋️. My filmmaking and photography skills have leveled up in a similiar manner through years of practicing, experience and dedication to the craft. 
 
