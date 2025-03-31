@@ -8,7 +8,7 @@ I'm an AI Developer and a Data Scientist embarking on side quests 🗺️ in the
       <a href="https://www.instagram.com/lcr_snaps/">
          <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-red.svg?logo=instagram&logoSource=feather&style=for-the-badge"/></a>
       <a href="https://www.facebook.com/lcrsnaps">
-         <img alt="Facebook" title="Follow me on Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook.svg?color=236ad3&logo=facebook&logoSource=feather&style=for-the-badge"/></a>
+         <img alt="Facebook" title="Follow me on Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-blue.svg?logo=facebook&logoSource=feather&style=for-the-badge"/></a>
       <a href="https://github.com/lukecardona?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lukecardona?color=a239ed&labelColor=b871eb&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/lukecardona?tab=repositories&sort=stargazers">
